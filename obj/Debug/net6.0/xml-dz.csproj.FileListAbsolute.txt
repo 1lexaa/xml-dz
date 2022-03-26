@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/xml-dz/bin/Debug/net6.0/xml-dz
+/Users/1lexaa/Documents/учеба/xml-dz/bin/Debug/net6.0/xml-dz.deps.json
+/Users/1lexaa/Documents/учеба/xml-dz/bin/Debug/net6.0/xml-dz.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/xml-dz/bin/Debug/net6.0/xml-dz.dll
+/Users/1lexaa/Documents/учеба/xml-dz/bin/Debug/net6.0/xml-dz.pdb
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/xml-dz.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/xml-dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/xml-dz.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/xml-dz.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/xml-dz.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/xml-dz.dll
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/refint/xml-dz.dll
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/xml-dz.pdb
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/xml-dz.genruntimeconfig.cache
+/Users/1lexaa/Documents/учеба/xml-dz/obj/Debug/net6.0/ref/xml-dz.dll
